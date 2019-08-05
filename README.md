@@ -2,7 +2,7 @@
 
 ## Basic of Machine Learning 
 1. [Python Practice]
-2. [Convex Optimizatino for machine learning](https://github.com/naxda/Convex-Optimization-Practice)
+2. [Convex Optimization for machine learning](https://github.com/naxda/Convex-Optimization-Practice)
 3. [Machine learning with Scikit-Learn](https://github.com/naxda/Machine-Learning-With-Scikit-Learn) 
 & [Practice](https://github.com/naxda/Machine-learning-with-Scikit-Learn-2) & [Practice 2](https://github.com/naxda/Scikit-Learn-Practice)
 
