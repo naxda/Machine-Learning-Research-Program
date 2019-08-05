@@ -1,21 +1,24 @@
 ### Machine Learning Research Program
 
 ## Basic of Machine Learning 
-1. Python Practice - will be uploaded
-2. Convex Optimizatino for machine learning 
-3. Machine learning with Scikit-Learn
+1. [Python Practice]
+2. [Convex Optimizatino for machine learning](https://github.com/naxda/Convex-Optimization-Practice)
+3. [Machine learning with Scikit-Learn](https://github.com/naxda/Machine-Learning-With-Scikit-Learn) 
+& [Practice](https://github.com/naxda/Machine-learning-with-Scikit-Learn-2) & [Practice 2](https://github.com/naxda/Scikit-Learn-Practice)
 
 ## Introduction to Deep Learning
-1. Deep Neural Network With Tensorflow
-2. Recurrent neural networks, Long Short-Term Memory
-3. Convolutional Neural Network
-4. Generative Adversarial Network
+1. [Deep Neural Network With Tensorflow]
+2. [Recurrent neural networks, Long Short-Term Memory]
+3. [Convolutional Neural Network](https://github.com/naxda/Convolutional-Neural-Network)
+& [Convolutional Neural Network2](https://github.com/naxda/Convolutional-Neural-Network-2)
+4. [Generative Adversarial Network](https://github.com/naxda/Generative-Adversarial-Network)
 
 ## Machine Learning Applications and Reinforcement Learning
-1. Machine Learning for text mining
-2. Machine Learning for data mining
-3. Natural Language Processing and Machine Learninig
+1. [Machine Learning for text mining](https://github.com/naxda/Machine-Learning-for-Text-mining)
+2. [Machine Learning for data mining](https://github.com/naxda/Machine-Learning-for-Data-Mining)
+3. [Natural Language Processing and Machine Learninig](https://github.com/naxda/Natural-Language-Processing-and-machine-learning)
 4. [Reinforcement Learning](https://github.com/naxda/Reinforcement-Learning)
+& [Reinforcement Learning 2](https://github.com/naxda/Reinforcement-Learning-setup)
 
 ## Recent Topic in Deep Learning based Computer Vision and Robustness
 1. [Computer Vision](https://github.com/naxda/Computer-Vision)
@@ -26,10 +29,10 @@
 
 ## Recent Topics in Advanced Deep Learning
 1. [Meta Learning and Transfer / Multi-task learning](https://github.com/naxda/Meta-Learning-and-Transfer-Multi-Task-Learning)
-   [Meta Learning 2](https://github.com/naxda/Meta-Learning-and-Transfer-Multi-Task-Learning-2)
+   & [Meta Learning 2](https://github.com/naxda/Meta-Learning-and-Transfer-Multi-Task-Learning-2)
 2. [Light Deep Learning](https://github.com/naxda/Light-Deep-Learning)
 3. [Bayesian Deep Learning](https://github.com/naxda/Bayesian-Deep-Learning-1)
-   [Bayesian Deep Learning2](https://github.com/naxda/Bayesian-Deep-Learning-2)
+   & [Bayesian Deep Learning2](https://github.com/naxda/Bayesian-Deep-Learning-2)
 4. [Optimization and Regularization methods for deep neural networks](https://github.com/naxda/Optimization-and-Regularization-methods-for-deep-neural-networks)
 5. [Uncertainty prediction, adversarial examples and explainable learning](https://github.com/naxda/Uncertainty-Prediction-Adverarial-examples-and-explainable-learning)
 
