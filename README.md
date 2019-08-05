@@ -16,7 +16,7 @@
 1. Machine Learning for text mining
 2. Machine Learning for data mining
 3. Natural Language Processing and Machine Learninig
-4. Reinforcement Learning
+4. [Reinforcement Learning](https://github.com/naxda/Reinforcement-Learning)
 
 ## Recent Topic in Deep Learning based Computer Vision and Robustness
 1. Computer Vision 
