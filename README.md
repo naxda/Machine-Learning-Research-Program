@@ -4,10 +4,10 @@
 1. [Python Practice]
 2. [Convex Optimization for machine learning](https://github.com/naxda/Convex-Optimization-Practice)
 3. [Machine learning with Scikit-Learn](https://github.com/naxda/Machine-Learning-With-Scikit-Learn) 
-& [Practice](https://github.com/naxda/Machine-learning-with-Scikit-Learn-2) & [Practice 2](https://github.com/naxda/Scikit-Learn-Practice)
+& [Practice](https://github.com/naxda/Scikit-Learn-Practice)
 
 ## Introduction to Deep Learning
-1. [Deep Neural Network With Tensorflow]
+1. [Deep Neural Network With Tensorflow](https://github.com/naxda/Deep-Neural-Network-with-Tensorflow)
 2. [Recurrent neural networks, Long Short-Term Memory]
 3. [Convolutional Neural Network](https://github.com/naxda/Convolutional-Neural-Network)
 & [Convolutional Neural Network2](https://github.com/naxda/Convolutional-Neural-Network-2)
