@@ -1,7 +1,7 @@
 # Machine Learning Research Program
 
 ## Basic of Machine Learning 
-1. [Python Practice]
+1. [Python Practice](https://github.com/naxda/Python-Practice)
 2. [Convex Optimization for machine learning](https://github.com/naxda/Convex-Optimization-Practice)
 3. [Machine learning with Scikit-Learn](https://github.com/naxda/Machine-Learning-With-Scikit-Learn) 
 & [Practice](https://github.com/naxda/Scikit-Learn-Practice)
